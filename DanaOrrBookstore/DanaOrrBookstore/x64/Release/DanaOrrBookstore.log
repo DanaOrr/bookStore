@@ -1,0 +1,22 @@
+﻿  database-main.cpp
+  database.cc
+c:\users\97250\desktop\מסדי נתונים\danaorrbookstore\danaorrbookstore\database.cc(56): warning C4244: 'initializing': conversion from 'uint64_t' to 'int', possible loss of data
+c:\users\97250\desktop\מסדי נתונים\danaorrbookstore\danaorrbookstore\database.cc(167): warning C4244: 'initializing': conversion from 'uint64_t' to 'int', possible loss of data
+c:\users\97250\desktop\מסדי נתונים\danaorrbookstore\danaorrbookstore\database.cc(213): warning C4244: 'initializing': conversion from 'uint64_t' to 'int', possible loss of data
+c:\users\97250\desktop\מסדי נתונים\danaorrbookstore\danaorrbookstore\database.cc(310): warning C4244: 'initializing': conversion from 'uint64_t' to 'int', possible loss of data
+c:\users\97250\desktop\מסדי נתונים\danaorrbookstore\danaorrbookstore\database.cc(355): warning C4244: 'initializing': conversion from 'uint64_t' to 'int', possible loss of data
+c:\users\97250\desktop\מסדי נתונים\danaorrbookstore\danaorrbookstore\database.cc(397): warning C4244: '=': conversion from 'uint64_t' to 'int', possible loss of data
+c:\users\97250\desktop\מסדי נתונים\danaorrbookstore\danaorrbookstore\database.cc(428): warning C4244: '=': conversion from 'uint64_t' to 'int', possible loss of data
+c:\users\97250\desktop\מסדי נתונים\danaorrbookstore\danaorrbookstore\database.cc(459): warning C4244: '=': conversion from 'uint64_t' to 'int', possible loss of data
+c:\users\97250\desktop\מסדי נתונים\danaorrbookstore\danaorrbookstore\database.cc(507): warning C4244: 'initializing': conversion from 'uint64_t' to 'int', possible loss of data
+c:\users\97250\desktop\מסדי נתונים\danaorrbookstore\danaorrbookstore\database.cc(549): warning C4244: 'initializing': conversion from 'uint64_t' to 'int', possible loss of data
+c:\users\97250\desktop\מסדי נתונים\danaorrbookstore\danaorrbookstore\database.cc(594): warning C4244: 'initializing': conversion from 'uint64_t' to 'int', possible loss of data
+c:\users\97250\desktop\מסדי נתונים\danaorrbookstore\danaorrbookstore\database.cc(642): warning C4244: 'initializing': conversion from 'uint64_t' to 'int', possible loss of data
+c:\users\97250\desktop\מסדי נתונים\danaorrbookstore\danaorrbookstore\database.cc(847): warning C4244: 'initializing': conversion from 'uint64_t' to 'int', possible loss of data
+c:\users\97250\desktop\מסדי נתונים\danaorrbookstore\danaorrbookstore\database.cc(895): warning C4244: 'initializing': conversion from 'uint64_t' to 'int', possible loss of data
+c:\users\97250\desktop\מסדי נתונים\danaorrbookstore\danaorrbookstore\database.cc(974): warning C4244: 'initializing': conversion from 'uint64_t' to 'int', possible loss of data
+c:\users\97250\desktop\מסדי נתונים\danaorrbookstore\danaorrbookstore\database.cc(1021): warning C4244: 'initializing': conversion from 'uint64_t' to 'int', possible loss of data
+  Generating code
+  All 183 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  DanaOrrBookstore.vcxproj -> C:\Users\97250\Desktop\מסדי נתונים\DanaOrrBookstore\x64\Release\DanaOrrBookstore.exe
